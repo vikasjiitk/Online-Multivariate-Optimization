@@ -1,0 +1,8 @@
+# Online Multivariate Optimization
+Bhuvesh Kumar, Govind Gopakumar, Vikas Jain
+*IIT Kanpur*
+
+##### About
+The repository contains the course project completed jointly by Bhuvesh Kumar, Govind Gopakumar, and Vikas Jain for the course [CS773A](https://www.cse.iitk.ac.in/users/purushot/courses/olo/2015-16-w/index.php), *Online Learning and Optimization*, Winter 2017, IIT Kanpur under the supervision of [*Prof Purushottam Kar*](https://www.cse.iitk.ac.in/users/purushot/). 
+##### Abstract 
+In a general classification setting, our notions of performance need to be quantified using multiple measures. In some cases like classification problems with label imbalance, it proves to be useful to optimize over non-decomposable measures such as F-measure, G-mean, and H-mean. In our work, we consider *concave performance measures* and propose an online primal-dual method **OPIUM** to learn an online learning problem in an adversarial setting to optimize the learning objective which is based on these concave performance measures. We applied *Online Mirror Descent* technique in our primal-dual solver method as in saddle point optimization problem to obtain a *sublinear regret bound* similar to the case of stochastic optimization setting with concave performance measures. We also employ and analyze our proposed algorithm with a general united framework for learning under *delayed feedback* and establish the applicability of our algorithm even when faced with delays.
