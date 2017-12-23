@@ -1,5 +1,5 @@
 # Online Multivariate Optimization
-Bhuvesh Kumar, Govind Gopakumar, Vikas Jain
+Bhuvesh Kumar, Govind Gopakumar, Vikas Jain  
 *IIT Kanpur*
 
 ##### About
